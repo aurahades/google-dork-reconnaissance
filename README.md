@@ -1,5 +1,8 @@
 # Google Dork Reconnaissance Tool
 
+<img width="1344" height="666" alt="image" src="https://github.com/user-attachments/assets/6e137f3e-a077-429d-b21c-03688e6e72b8" />
+
+
 An automated security reconnaissance tool that performs surface-level vulnerability assessment using Google dork queries through the SearchAPI.io service.
 
 ## Register Searchapi.io
